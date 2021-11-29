@@ -1,0 +1,46 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=031614e8_002De3bc_002D44c2_002Db414_002D108ad6446666/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CanCalculateMonthlySalary" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9E590B13-9726-44DC-8E19-C59463005F33::net6.0::MagicYearCalculatorTests.UnitTest1.CanCalculateMonthlySalary&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=14510436_002D78f3_002D42cd_002D8649_002D0ebaef23f5e1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1 #8" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9E590B13-9726-44DC-8E19-C59463005F33::net6.0::MagicYearCalculatorTests.UnitTest1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=48bbcb50_002D83ed_002D4acc_002D99d5_002D63f55cc0cdf7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9E590B13-9726-44DC-8E19-C59463005F33::net6.0::MagicYearCalculatorTests.UnitTest1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5cb4216e_002Df250_002D4bb3_002Dbfb4_002D067bdfc084ca/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1 #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9E590B13-9726-44DC-8E19-C59463005F33::net6.0::MagicYearCalculatorTests.UnitTest1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=857baeb5_002Db297_002D4a82_002Dba10_002D8c9c8e165137/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1 #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9E590B13-9726-44DC-8E19-C59463005F33::net6.0::MagicYearCalculatorTests.UnitTest1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d241ab04_002Dca8e_002D4253_002D82db_002D9bb34ecefa3f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9E590B13-9726-44DC-8E19-C59463005F33::net6.0::MagicYearCalculatorTests.UnitTest1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d804828d_002D25e7_002D4714_002D9c2a_002D623cf6ff5011/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1 #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9E590B13-9726-44DC-8E19-C59463005F33::net6.0::MagicYearCalculatorTests.UnitTest1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f4cdbd82_002D2fb4_002D40ce_002D9ff3_002Dcce86d552bf8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1 #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9E590B13-9726-44DC-8E19-C59463005F33::net6.0::MagicYearCalculatorTests.UnitTest1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fcdb34dd_002D6710_002D4442_002Dabd2_002D0c4d554c6296/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9E590B13-9726-44DC-8E19-C59463005F33::net6.0::MagicYearCalculatorTests.UnitTest1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

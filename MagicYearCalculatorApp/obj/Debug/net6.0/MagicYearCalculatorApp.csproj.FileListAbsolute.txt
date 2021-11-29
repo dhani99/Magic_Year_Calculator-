@@ -1,0 +1,5 @@
+/Users/Dhwani.Thakar/Desktop/MagicYearCalculator/MagicYearCalculatorApp/obj/Debug/net6.0/MagicYearCalculatorApp.csproj.AssemblyReference.cache
+/Users/Dhwani.Thakar/Desktop/MagicYearCalculator/MagicYearCalculatorApp/obj/Debug/net6.0/MagicYearCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dhwani.Thakar/Desktop/MagicYearCalculator/MagicYearCalculatorApp/obj/Debug/net6.0/MagicYearCalculatorApp.AssemblyInfoInputs.cache
+/Users/Dhwani.Thakar/Desktop/MagicYearCalculator/MagicYearCalculatorApp/obj/Debug/net6.0/MagicYearCalculatorApp.AssemblyInfo.cs
+/Users/Dhwani.Thakar/Desktop/MagicYearCalculator/MagicYearCalculatorApp/obj/Debug/net6.0/MagicYearCalculatorApp.csproj.CoreCompileInputs.cache
